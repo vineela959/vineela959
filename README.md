@@ -106,15 +106,6 @@ Building AI-powered applications, workflow automations, and data analytics solut
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vineela959&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineela959&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 💡 Motto
 
