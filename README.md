@@ -109,12 +109,9 @@ Building AI-powered applications, workflow automations, and data analytics solut
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vineela959&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineela959&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vineela959&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineela959&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineela959&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
