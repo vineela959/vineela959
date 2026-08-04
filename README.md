@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Dungala Vineela Devi</h1>
-
-<h3 align="center">
-Associate Software Engineer | AI Automation & Data Analytics
-</h3>
-
-<p align="center">
-Building AI-powered applications, workflow automations, and data analytics solutions using Python, FastAPI, SQL, Power BI, LangGraph, and modern AI technologies.
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 - 💼 Associate Software Engineer with 1.5+ years of experience
@@ -17,7 +5,7 @@ Building AI-powered applications, workflow automations, and data analytics solut
 - 🐍 Strong in Python, FastAPI, SQL, Power BI and REST APIs
 - 🧠 Building practical AI solutions using LLMs, LangGraph and n8n
 - 📊 Experienced in creating interactive dashboards and business insights
-- 🌱 Continuously learning and building real-world AI applications
+- 🌱 Passionate about building scalable AI and data-driven applications
 
 ---
 
@@ -66,7 +54,7 @@ Building AI-powered applications, workflow automations, and data analytics solut
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Portfolio Projects
 
 ## 🤖 AI & Generative AI
 
@@ -110,9 +98,5 @@ Building AI-powered applications, workflow automations, and data analytics solut
 - NASSCOM Certified Python Programmer
 
 ---
-
-# 💡 Motto
-
-> **"Building intelligent AI solutions and data-driven applications that solve real-world business problems."**
 
 ⭐ **Thanks for visiting my profile!**
