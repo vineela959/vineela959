@@ -60,3 +60,67 @@ Building AI-powered applications, workflow automations, and data analytics solut
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+### 🤖 AI & Generative AI
+
+- 🧠 **AI Business Operations Copilot**
+  - Multi-agent AI platform using LangGraph, FastAPI, React, Supabase and n8n.
+
+- 📄 **AI Document Intelligence System**
+  - AI-powered document analysis for PDF/DOCX with FastAPI and Groq LLaMA.
+
+- 📊 **AI Client Strategy Report Generator**
+  - Generates AI-powered business strategy reports with downloadable PDFs.
+
+- 🎯 **AI Lead Qualification & CRM Automation**
+  - Intelligent lead scoring, CRM updates and automated email workflows using n8n and LLMs.
+
+---
+
+### 📊 Data Analytics
+
+- 📈 **Sales Performance Dashboard**
+  - Excel, SQL and Power BI dashboard for sales insights.
+
+- 👥 **HR Analytics Dashboard**
+  - Workforce analytics and employee insights using Power BI.
+
+- 🛒 **E-Commerce Customer Analysis**
+  - Customer behaviour and product performance analysis using Power BI.
+
+- 📉 **Customer Churn Prediction**
+  - Machine Learning model to predict customer churn using Python.
+
+- 💳 **Credit Card Fraud Detection**
+  - Fraud detection using Machine Learning, Python and Power BI.
+
+---
+
+## 🏅 Certifications
+
+- Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- Blue Prism Associate Developer Certification
+- NASSCOM Certified Python Programmer
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vineela959&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineela959&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineela959&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💡 Motto
+
+> *"Building intelligent AI solutions and data-driven applications that solve real-world business problems."*
+
+⭐ **Thanks for visiting my profile!**
